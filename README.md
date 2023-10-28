@@ -12,3 +12,5 @@ User profile with goal setting
 Time view on a daily, weekly, monthly grid
 Customizable blocks
 Block Planning and Block Review prompts
+
+This is a test addition...
