@@ -6,6 +6,11 @@
     text-align: center;
 }
 
-.blocks {
+.block-stack {
     text-align: center;
+}
+
+.block {
+    display: flex;
+    justify-content: center;
 }
