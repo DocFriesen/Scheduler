@@ -6,11 +6,45 @@
     text-align: center;
 }
 
+.primary-screen {
+    display: flex;
+    justify-content: space-around;
+}
+
+.task-stack {
+    text-align: center;
+}
+
 .block-stack {
+    text-align: center;
+}
+
+.block-list-stack {
     text-align: center;
 }
 
 .block {
     display: flex;
     justify-content: center;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+
+.block-time {
+    margin-right: 50px;
+}
+
+.block-name {
+    margin-right: 30px;
+}
+
+.block-content {
+   margin-top: 5px;
+}
+
+.block-status {
+    margin-left: 70px;
+    margin-right: 30px;
 }
