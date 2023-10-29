@@ -8,11 +8,20 @@
 
 .primary-screen {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .task-stack {
     text-align: center;
+}
+
+.task-template {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
 }
 
 .block-stack {
@@ -47,4 +56,13 @@
 .block-status {
     margin-left: 70px;
     margin-right: 30px;
+}
+
+.block-template {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
 }
