@@ -2,7 +2,7 @@
     text-align: center;
 }
 
-.day-header {
+.progress-map {
     text-align: center;
 }
 
@@ -22,6 +22,10 @@
     border-style: solid;
     border-color: black;
     border-radius: 10px;
+}
+
+.day-header {
+    text-align: center;
 }
 
 .block-stack {
@@ -65,4 +69,8 @@
     border-style: solid;
     border-color: black;
     border-radius: 10px;
+}
+
+.daily-review {
+    text-align: center;
 }

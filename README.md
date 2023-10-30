@@ -1,6 +1,6 @@
 # Scheduler App
 
-A web app for interactive scheduling
+A minimalist interactive scheduler to help you reach goals. 
 
 I aim to build an app to structure my days based on interchangeable blocks, with metacognitive prompts to prompt better productivity.
 
