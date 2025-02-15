@@ -10,8 +10,8 @@ https://www.figma.com/file/j3lVmuWqF3LGGFewRzjWJo/Scheduler-App?type=design&node
 
 Some components to build:
 
-User profile with Goal setting pathway
-Time view on a daily, weekly, monthly grid
-Customizable Blocks that relate to Goals
-Block Planning and Block Review prompts
+- User profile with Goal setting pathway
+- Time view on a daily, weekly, monthly grid
+- Customizable Blocks that relate to Goals
+- Block Planning and Block Review prompts
 
